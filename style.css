@@ -1,0 +1,56 @@
+#bg
+{
+  height:100%;
+  width:100%;
+  background-image: url(mp4.jpg);
+}
+body
+{
+  background-image: url(mp3.jpg);
+}
+
+.dropdown
+{
+  position:relative;
+}
+
+#myButton
+{
+  height:400px;
+  width:45%;
+  margin-top:10%;
+  margin-left:5%;
+  opacity: 1;
+  position: absolute;
+  top:10%;
+  left:45%;
+}
+
+.input-group
+{
+  width:40%;
+  margin-left: 5%;
+  margin-top: 1%;
+  background-color: red;
+}
+
+#register
+{
+  margin-left: 5%;
+  margin-top: 35%;
+}
+#input
+{
+  margin-top: 15%;
+}
+
+#images-toggl
+{
+  position: absolute;
+  top:10%;
+  margin-left:10%;
+  height:30%;
+  width:65%;
+  border-style: dashed;
+
+}
